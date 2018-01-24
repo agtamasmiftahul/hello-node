@@ -1,0 +1,28 @@
+{
+  "name": "hello-node",
+  "version": "1.0.0",
+  "description": "Simple app to learn nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node-dev index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agtamasmiftahul/hello-node.git"
+  },
+  "keywords": [
+    "nodejs",
+    "app"
+  ],
+  "author": "agtamasmiftahul37@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/agtamasmiftahul/hello-node/issues"
+  },
+  "homepage": "https://github.com/agtamasmiftahul/hello-node#readme",
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "ramda": "^0.25.0"
+  }
+}
